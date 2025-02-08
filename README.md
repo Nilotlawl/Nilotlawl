@@ -20,7 +20,7 @@
 
 <div align=center >
 
-<img src="https://github-profile-trophy.vercel.app/?username=NilotpalMaitra&theme=darkhub">
+<img src="https://github-profile-trophy.vercel.app/?username=Nilotlawl&theme=darkhub">
 
 <h3 align="Middle">Languages and Tools:</h3>
 
@@ -30,7 +30,7 @@
 
 <div align=center >
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nilotplawl&theme=codestackr&fire=EBDC3C&card_width=400&border=EB545400)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nilotlawl&theme=codestackr&fire=EBDC3C&card_width=400&border=EB545400)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilotlawl&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 <table>
