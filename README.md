@@ -12,7 +12,7 @@
 </div>
 <h3 align="Middle">Info about me :</h3>
 
-- Email - nilotpalm2015@gmail.com , any interesting stuff can contact me there!
+- Email - nilotpalm2015@gmail.com , any interesting stuff can contact me here!
 
 <div align=center >
 
